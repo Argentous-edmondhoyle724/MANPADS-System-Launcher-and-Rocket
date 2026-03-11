@@ -2,21 +2,17 @@
 
 
 
-\*\*30-Second Project Overview (Short)\*\*  
-
-https://www.youtube.com/shorts/zFn\_\_6\_LdTc
+\[!\[30 Second Overview](https://img.youtube.com/vi/zFn\_\_6\_LdTc/maxresdefault.jpg)](https://www.youtube.com/shorts/zFn\_\_6\_LdTc)
 
 
 
-\*\*Full System Overview (5 minutes)\*\*  
-
-https://www.youtube.com/watch?v=DDO2EvXyncE\&t=54s
+\[!\[Full System Overview (5 min)](https://img.youtube.com/vi/DDO2EvXyncE/maxresdefault.jpg)](https://www.youtube.com/watch?v=DDO2EvXyncE\&t=54s)
 
 
 
-\*\*Full Development Media and Documentation\*\*  
+\## Full Development Media and Documentation
 
-https://drive.google.com/drive/folders/17zpks6\_R59H0iXJaGkTrtp1SzIFFAQtY?usp=sharing
+https://drive.google.com/drive/folders/17zpks6\_R59H0iXJaGkTrtp1SzIFFAQtY?usp=drive\_link
 
 
 
